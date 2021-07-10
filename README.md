@@ -1,4 +1,4 @@
-<b>Inspection quiz</b><br>
+<h2>Inspection quiz</h2>
 This is a simple quiz created for EVGP competition.
 It consists of 4 pages 
 <ul>
