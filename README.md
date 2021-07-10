@@ -7,6 +7,6 @@ It consists of 4 pages
  <li> Quiz page.</li>
  <li> Result page</li>
 </ul>
-Every competitor are able to have 2 attempts in this quiz using his account for access the quiz.
+<p>Every competitor are able to have 2 attempts in this quiz using his account for access the quiz.</p>
 I used php and java script to create this quiz and used a MySQL Database for storing the questions and results.
 
