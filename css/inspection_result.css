@@ -1,0 +1,117 @@
+.I1{
+	position: relative;
+	border:1px solid #dee2e6;
+
+}
+.btn-success{
+	height: auto;
+	font-weight: 500;
+	font-size: 1rem;
+	position: absolute;
+	bottom: 20px;
+	right:20px;
+
+}
+.btn-danger{
+	height: auto;
+	font-weight: 500;
+	font-size: 1rem;
+	position: absolute;
+	bottom: 20px;
+	left:20px;
+	border-radius: 10px;
+}
+.active{
+	color: white!important;
+}
+.warning{
+	color: red;
+	font-weight: 500;
+	font-size: 1rem;
+}
+.red{
+	color: red;
+}
+.time{
+	color: white;
+	font-size: 1rem;
+}
+
+
+.score-header,.score-number{
+	font-weight: 500;
+
+}
+.score-header{
+	color: red;
+	font-size: 2rem;
+}
+.score-number{
+	color: white;
+	font-size: 1.8rem;
+}
+.score-div{
+	padding-left: 10%;
+}
+.station-row{
+	margin-top: 5%;	
+}
+.station-header{
+	color: yellow;
+	font-size: 1.8rem
+}
+
+.stations{
+	list-style-type: none;
+	display: inline-block;
+}
+.note{
+	font-size: 1.5rem;
+	color: white;
+	margin-top: 5%;
+}
+.stations li,.station-score{
+		color: yellow;
+		font-size: 1.7rem;
+		font-weight: 500;
+}
+
+.I2{
+	border:1px solid #dee2e6;
+}
+.table td{
+	border: none;
+	font-size: 1.3rem ;
+	color: grey;
+}
+@media (min-width: 1300px) { 
+	.warning{
+			font-size: 1vw;
+	}
+	.time{
+		font-size: 1vw;
+	}
+
+	.btn-success,.btn-danger{
+		font-size: 1.1vw;
+	}
+	.stations li,.station-score{
+		font-size: 1.5vw;
+	}
+	.score-header{
+		font-size: 1.9vw;
+	}
+	.score-number{
+		font-size: 1.7vw;
+	}
+	.note{
+		font-size: 1.3vw;
+	}
+	.E3 h3{
+	font-size: 1.7vw;
+	}
+	.table td{
+		font-size: 1.2vw;
+	}
+
+}
